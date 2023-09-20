@@ -2,7 +2,7 @@
 
 import 'package:flutter/painting.dart';
 
-const monokaiSublimeTheme = {
+const monokaiMobileTheme = {
   'root':
       TextStyle(backgroundColor: Color(0xff23241f), color: Color(0xfff8f8f2)),
   'tag': TextStyle(color: Color(0xfff8f8f2)),
